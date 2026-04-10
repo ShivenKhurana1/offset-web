@@ -1,6 +1,6 @@
 # OFFSET
 
-Marketing site for OFFSET (weekly zine, printed & shipped). Built with [Astro](https://astro.build) and Tailwind CSS v4.
+Built with [Astro](https://astro.build) and Tailwind CSS v4.
 
 ```bash
 npm install
